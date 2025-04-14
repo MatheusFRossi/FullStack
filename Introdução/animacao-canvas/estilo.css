@@ -1,0 +1,14 @@
+body {
+    background-color: #0658a0; 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+  }
+  
+  .container {
+    background-color: aliceblue;
+    text-align: center;
+  }
+  
